@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ibzha3.salamcuan.cfd/sitemap.xml
